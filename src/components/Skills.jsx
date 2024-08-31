@@ -12,7 +12,7 @@ const Skills = () => {
                     place-items-center md:flex md:justify-between md:items-center"
     >
       <h2 className="text-gray-700 text-xl md:text-4xl font-bold m-4">
-          Minhas <br/> Dev <br/> Skills
+          Minhas <br/> stacks
       </h2>
 
       <div className="flex flex-col items-center m-4 sm:my-0 w-[40px] md:w-[100px]">

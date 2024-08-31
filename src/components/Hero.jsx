@@ -30,7 +30,7 @@ const Hero = () => {
         </h1>
 
         <p className="text-white text-base sm:text-lg lg:text-xl my-6">
-          Meu nome é Felipe Duarte e trabalho 1 ano como desenvolvedor web.
+        Meu nome é Felipe Duarte e trabalho há 1 ano como desenvolvedor web. <br />Bem-vindo ao meu portfólio!
         </p>
 
         <div className="my-8 flex flex-col sm:flex-row justify-center sm:justify-end gap-4">
@@ -38,13 +38,13 @@ const Hero = () => {
             href="/"
             className="px-6 py-3 rounded-xl bg-gradient-to-br from-orange-500 to-pink-500 text-white text-center"
           >
-            Download CV*
+            Download CV
           </a>
           <a
             href="#contato"
             className="px-6 py-3 rounded-xl border border-gray-400 hover:bg-gradient-to-br from-orange-500 to-pink-500 text-white text-center hover:border-none"
           >
-            Contato*
+            Contato
           </a>
         </div>
       </div>
