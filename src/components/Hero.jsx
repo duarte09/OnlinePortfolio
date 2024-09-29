@@ -20,7 +20,7 @@ const Hero = () => {
               1000,
               "Estudante",
               1000,
-              "Apaixonado por inovação",
+              "Viciado em inovação",
               1000,
             ]}
             wrapper="span"
